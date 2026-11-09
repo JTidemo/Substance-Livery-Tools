@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
